@@ -23124,12 +23124,12 @@ footer .vertical-divider {
 .body-wrapper .main-wrapper .page-wrapper .content-wrapper {
   min-height: calc(100vh - 64px - 67px);
   padding: 16px 30px;
+  background-color: black;
 }
 
 @media (max-width: 767px) {
   .body-wrapper .main-wrapper .page-wrapper .content-wrapper {
     padding: 16px;
-    background-color: black;
   }
 }
 
