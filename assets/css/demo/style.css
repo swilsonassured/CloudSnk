@@ -22899,6 +22899,7 @@ address p {
 .mdc-drawer .mdc-drawer__header .brand-logo {
   display: block;
   padding: 28px 0;
+  background-color: black;
   color: white;
 }
 
