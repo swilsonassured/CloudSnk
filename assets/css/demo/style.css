@@ -9256,13 +9256,14 @@ a.mdc-list-item {
   flex: 1 1 auto;
   align-items: center;
   min-width: 0;
+  background-color: lightgray;
   padding: 8px 12px;
   z-index: 1;
 }
 
 .mdc-top-app-bar__section--align-start {
   justify-content: flex-start;
-  background-color: #282a36;
+  background-color: #757575;
   order: -1;
 }
 
