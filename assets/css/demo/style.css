@@ -9262,6 +9262,7 @@ a.mdc-list-item {
 
 .mdc-top-app-bar__section--align-start {
   justify-content: flex-start;
+  background-color: #282a36;
   order: -1;
 }
 
