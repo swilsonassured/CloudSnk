@@ -23118,7 +23118,7 @@ footer .vertical-divider {
 }
 
 .body-wrapper .main-wrapper .page-wrapper {
-  background: #1111;
+  background: #e9eaef;
 }
 
 .body-wrapper .main-wrapper .page-wrapper .content-wrapper {
@@ -23129,6 +23129,7 @@ footer .vertical-divider {
 @media (max-width: 767px) {
   .body-wrapper .main-wrapper .page-wrapper .content-wrapper {
     padding: 16px;
+    background-color: black;
   }
 }
 
