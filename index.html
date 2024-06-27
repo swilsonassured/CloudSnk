@@ -5,20 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Assured Coludsnk</title>
     <link rel="stylesheet" href="style.css" />
-
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 </head>
 <body>
- <h1>Assured Cloudsnk</h1> 
- <form>
-    <textarea placeholder="email address"></textarea>
- </form>
- <form>
-  <textarea placeholder="pasword"></textarea>
-  <button><p>Login</p></button>
-</form>
+  <div class="wrapper">
+    <form action="">
+      <h1>Login</h1>
+      <div class="input-box">
+        <input type="text" placeholder="Email" required>
+      </div>
+      <div class="input-box">
+        <input type="password" placeholder="Password" 
+        required>
+      </div>
+      <div class="remember-forgot">
+        <label><input type="checkbox">remember me</label>
+        <a href="#">Forgot Passowrd?</a>
+      </div>
+      <button type="submit" class="btn">Login</button>
+      <div class="register-link"></div>
+      <p>dont have an account? <a href="#">Register</a></p>
+    </form>
+  </div>
 </body>
 </html>
