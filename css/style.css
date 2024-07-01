@@ -5,19 +5,20 @@
     font-family: "Poppins", sans-serif;
 }
 body{
-    justify-content: center;
-    align-items: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 500px;
     min-height: 100vh;
     background-image: linear-gradient(#0e81d1, #002959);
 }
 .wrapper{
-    right
-    width: 420px;
+    display: contents;
+    justify-content: center;
     background: transparent;
     color: white;
     border-radius: 12px;
     padding: 30px 40px;
-    margin: 5%
 }
 .wrapper h1{
     font-size: 25px;
@@ -108,5 +109,6 @@ body{
     color: white;
     font-size: 30px;
     text-align: center;
-    margin: 5%;
+    margin-top: 10%;
+    margin-bottom: 10%;
 }
