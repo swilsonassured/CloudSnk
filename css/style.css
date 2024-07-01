@@ -17,7 +17,7 @@ body{
     color: white;
     border-radius: 12px;
     padding: 30px 40px;
-    margin: 20%
+    margin: 15%
 }
 .wrapper h1{
     font-size: 25px;
@@ -108,5 +108,5 @@ body{
     color: white;
     font-size: 30px;
     text-align: center;
-    margin: 10%;
+    margin: 5%;
 }
